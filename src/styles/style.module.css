@@ -1,0 +1,42 @@
+.navbarLogo {
+  margin: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbarMessage{
+  color: #327fb9;
+  font-weight: 500;
+}
+
+.tableHeader{
+  color: #327fb9;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.titleName{
+  color: #327fb9;
+  font-weight: 700;
+  margin-left: 5px;
+}
+
+.detailsBox{
+  display: "flex";
+  margin-top: "10px";
+  justify-content: "center";
+  align-items: "center";
+  width: "96vw";
+}
+
+.detailImage{
+  height: 50%;
+  width: 50%;
+}
+
+@media (max-width: 600px) {
+  /* .detailsBox{
+    display: flex;
+    flex-direction: column;
+  } */
+}
