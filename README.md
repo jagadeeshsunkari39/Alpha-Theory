@@ -23,3 +23,10 @@ RUN
 npm run dev
 
 `````````````
+
+RUN JSON-SERVER
+----------------
+
+json-server --watch db.json --port 4200
+
+``````````````````````
